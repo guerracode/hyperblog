@@ -1,0 +1,3 @@
+Este es el archivo de el curso de Git y Github en Platzi
+
+Estudiandolo en una mac
