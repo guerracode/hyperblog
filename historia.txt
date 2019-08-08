@@ -1,5 +1,7 @@
 Este es el archivo de el curso de Git y Github en Platzi
 
-Estudiandolo en una mac
+Estudiandolo en una ma
+
+Soy la copia chafa de Siul 
 
 este es el que cambie.
